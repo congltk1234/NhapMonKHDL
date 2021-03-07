@@ -1,1 +1,1 @@
-# Nh-p-m-n-KHDL
+# Nhập môn KHDL
